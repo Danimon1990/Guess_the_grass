@@ -10,12 +10,6 @@ In *Guess the Grass*, you’ll be shown a silhouette of a leaf and must choose t
 - **Instant Feedback**: See your score at the end of each game.
 - **Restart Option**: Play as many times as you like and try to beat your previous score!
 
-## Screenshots
-<!-- Add screenshots here if available -->
-![Game Start](path_to_screenshot)
-![Game Play](path_to_screenshot)
-![Game Over](path_to_screenshot)
-
 ## Installation and Setup
 To set up and run *Guess the Grass* locally, follow these steps:
 
